@@ -1,9 +1,9 @@
-
 export default {
-  mode: 'universal',
-  /*
-  ** Headers of the page
-  */
+  mode: 'spa',
+  router: {
+    base: '/holocard/'
+  },
+
   head: {
     title: process.env.npm_package_name || '',
     meta: [

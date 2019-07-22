@@ -19,7 +19,7 @@
 export default {
 	data() {
 		return {
-			logo: require('@/assets/logo.png'),
+			logo: require('~/assets/logo.png'),
 			social: [
 				{
 					url: 'https://www.facebook.com/kusillus',
