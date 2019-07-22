@@ -1,6 +1,24 @@
-# animate-card
+# holo-card
+ 
+ !(•̀ᴗ•́)و ⚡ Project Info⚡
 
-> My geometric Nuxt.js project
+- LIVE PROJECT: https://kusillus.github.io/holocard/
+- VIDEO: https://youtu.be/XI2Sfo0Uxgk
+- AWESOME HOLO CARD
+- VUEJS
+- NUXTJS
+
+!(•̀ᴗ•́)و ⚡ References⚡
+- Original project: https://codepen.io/simeydotme/pen/PrQKgo
+- Old version:  https://github.com/kusillus/card-component-vue
+
+
+{\__/}
+( • - •)
+/つ⚡  My Network ⚡
+
+-  Facebook : https://www.facebook.com/kusillus
+-  Twitch: http://www.twitch.tv/kusillus
 
 ## Build Setup
 
